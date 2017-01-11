@@ -1,6 +1,5 @@
 # Author: Cesar Leonardo Clemente Lopez // clemclem1991@gmail.com
-# Note: I apologize for the tensorflow variable names that start with "first_", I started with the plan of implementing different
-# 	models in the same code page but finally decided not to. The 4-class model does not have that.
+
 import tensorflow as tf
 import numpy as np
 import time
