@@ -1,6 +1,6 @@
 # binPackingPolicyGradients
 
-See PDF for more information
+See PDF for more information. (Currently working on this)
 
 Based on recent deepmind work on RL, the idea of developing an hyper-heuristic model arises. It is possible to see an NP-hard problem as a game, where the the RL agent has access to information via hand-coded observation vectors and it plays using the heuristics as the possible actions within the game.
 
